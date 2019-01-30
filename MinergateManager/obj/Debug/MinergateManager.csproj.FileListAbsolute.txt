@@ -1,0 +1,13 @@
+C:\Users\Kalle\source\repos\MinergateManager\MinergateManager\bin\Debug\MinergateManager.exe.config
+C:\Users\Kalle\source\repos\MinergateManager\MinergateManager\bin\Debug\MinergateManager.exe
+C:\Users\Kalle\source\repos\MinergateManager\MinergateManager\bin\Debug\MinergateManager.pdb
+C:\Users\Kalle\source\repos\MinergateManager\MinergateManager\obj\Debug\MinergateManager.csproj.CoreCompileInputs.cache
+C:\Users\Kalle\source\repos\MinergateManager\MinergateManager\obj\Debug\MinergateManager.exe
+C:\Users\Kalle\source\repos\MinergateManager\MinergateManager\obj\Debug\MinergateManager.pdb
+C:\Kasper\repos\MinergateManager\MinergateManager\bin\Debug\MinergateManager.exe.config
+C:\Kasper\repos\MinergateManager\MinergateManager\bin\Debug\MinergateManager.exe
+C:\Kasper\repos\MinergateManager\MinergateManager\bin\Debug\MinergateManager.pdb
+C:\Kasper\repos\MinergateManager\MinergateManager\obj\Debug\MinergateManager.csprojAssemblyReference.cache
+C:\Kasper\repos\MinergateManager\MinergateManager\obj\Debug\MinergateManager.csproj.CoreCompileInputs.cache
+C:\Kasper\repos\MinergateManager\MinergateManager\obj\Debug\MinergateManager.exe
+C:\Kasper\repos\MinergateManager\MinergateManager\obj\Debug\MinergateManager.pdb
